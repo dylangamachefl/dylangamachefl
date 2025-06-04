@@ -10,9 +10,9 @@ This 4-week plan focuses on leveraging the Hugging Face ecosystem to build pract
 Here's where I'll list the projects as I complete them:
 
 *   **Project 1: Sentiment Analysis App**
-    *   Description: [Coming Soon]
-    *   Live Demo: [Coming Soon]
-    *   Repo: [Coming Soon]
+    *   Description: A web application that performs sentiment analysis on user-provided text. It utilizes the Hugging Face Inference API with the `distilbert/distilbert-base-uncased-finetuned-sst-2-english` model and features a user interface built with Streamlit.
+    *   Live Demo: [HF Sentiment Analyzer App](https://dylangamachefl-hf-sentiment-analyzer.hf.space)
+    *   Repo: [GitHub - hf-sentiment-analyzer](https://github.com/dylangamachefl/hf-sentiment-analyzer)
 *   **Project 2: Text Translation Tool**
     *   Description: [Coming Soon]
     *   Live Demo: [Coming Soon]

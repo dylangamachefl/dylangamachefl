@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Dylan 👋
 
 ## About Me
 I'm an aspiring AI/ML enthusiast passionate about building intelligent applications. I'm currently working on building a portfolio of projects to showcase my skills.

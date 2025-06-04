@@ -15,8 +15,8 @@ Here's where I'll list the projects as I complete them:
     *   Repo: [GitHub - hf-sentiment-analyzer](https://github.com/dylangamachefl/hf-sentiment-analyzer)
 *   **Project 2: Text Translation Tool**
     *   Description: [Coming Soon]
-    *   Live Demo: [Coming Soon]
-    *   Repo: [Coming Soon]
+    *   Live Demo: [HF Text Translator App](https://dylangamachefl-hf-text-translator.hf.space)
+    *   Repo: [GitHub - hf-sentiment-analyzer](https://github.com/dylangamachefl/hf-text-translator)
 *   **Project 3: Zero-Shot Text Classification**
     *   Description: [Coming Soon]
     *   Live Demo: [Coming Soon]

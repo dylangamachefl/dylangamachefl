@@ -3,9 +3,9 @@
 ## About Me
 I'm an aspiring AI/ML enthusiast passionate about building intelligent applications. I'm currently working on building a portfolio of projects to showcase my skills.
 
-This 4-week plan focuses on leveraging the Hugging Face ecosystem to build practical AI applications.
+This portfolio focuses on leveraging the Hugging Face ecosystem to build practical AI applications.
 
-## 🚀 My AI Project Portfolio (4-Week Challenge)
+## 🚀 My AI Project Portfolio
 
 Here's where I'll list the projects as I complete them:
 

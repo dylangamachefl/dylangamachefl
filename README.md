@@ -18,9 +18,9 @@ Here's where I'll list the projects as I complete them:
     *   Live Demo: [HF Text Translator App](https://dylangamachefl-hf-text-translator.hf.space)
     *   Repo: [GitHub - hf-text-translator](https://github.com/dylangamachefl/hf-text-translator)
 *   **Project 3: Zero-Shot Text Classification**
-    *   Description: [Coming Soon]
-    *   Live Demo: [Coming Soon]
-    *   Repo: [Coming Soon]
+    *   Description: An interactive web application that classifies input text into user-defined categories using Hugging Face's zero-shot classification models via the Inference API.
+    *   Live Demo: [HF Zero-Shot Text Classifier](https://dylangamachefl-hf-zero-shot-classifier.hf.space) 
+    *   Repo: [GitHub - hf-zero-shot-classifier](https://github.com/dylangamachefl/hf-zero-shot-classifier)
 *   **Project 4: Image Captioning Tool**
     *   Description: [Coming Soon]
     *   Live Demo: [Coming Soon]

@@ -22,10 +22,9 @@ Here's where I'll list the projects as I complete them:
     *   Live Demo: [HF Zero-Shot Text Classifier](https://dylangamachefl-hf-zero-shot-classifier.hf.space) 
     *   Repo: [GitHub - hf-zero-shot-classifier](https://github.com/dylangamachefl/hf-zero-shot-classifier)
 *   **Project 4: Image Captioning Tool**
-    *   Description: [Coming Soon]
-    *   Live Demo: [Coming Soon]
-    *   Repo: [Coming Soon]
-
+    *   Description: An interactive web application that generates descriptive captions for uploaded images. This version directly utilizes the Hugging Face transformers library to load and run a state-of-the-art image captioning model locally within the application's environment
+    *   Live Demo: [HF Image Captioning](https://dylangamachefl-hf-image-captioning.hf.space) 
+    *   Repo: [GitHub - hf-image-captioning](https://github.com/dylangamachefl/hf-image-captioning)
 ## 🛠️ Skills
 *   **AI/ML:** Hugging Face (Transformers, Inference API), NLP, CV (via APIs)
 *   **Programming:** Python

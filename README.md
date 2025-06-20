@@ -14,7 +14,7 @@ This is my most recent and complex project, demonstrating advanced concepts in a
 *   **Project: Data-to-Analysis: A Multi-Agent AI Analyst**
     *   **Description:** An interactive web application that leverages a sophisticated multi-agent system, powered by the **Google Gemini API**, to automatically analyze a CSV dataset, derive strategic business insights, and generate a final, insightful data visualization. The system uses **Tree-of-Thought (ToT) reasoning** for chart selection and features **self-correcting agents** that can fix their own errors.
     *   **Live Demo:** [Data-to-Analysis App on Streamlit Cloud](https://data-to-analysis-app.streamlit.app/)
-    *   **Repo:** [GitHub - data-to-analysis-agent](https://github.com/dylangamachefl/data-to-analysis-agent)
+    *   **Repo:** [GitHub - data-to-analysis-agent](https://github.com/dylangamachefl/data-to-analysis)
 
 ---
 

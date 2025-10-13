@@ -9,7 +9,7 @@ This portfolio showcases my ability to build end-to-end solutions, from complex 
 
 ## 🚀 Featured Project: Multi-Agent AI Analyst
 
-This is my most recent and complex project, demonstrating advanced concepts in agentic AI.
+This is my most recent project, demonstrating advanced concepts in agentic AI.
 
 *   **Project: Data-to-Analysis: A Multi-Agent AI Analyst**
     *   **Description:** An interactive web application that leverages a sophisticated multi-agent system, powered by the **Google Gemini API**, to automatically analyze a CSV dataset, derive strategic business insights, and generate a final, insightful data visualization. The system uses **Tree-of-Thought (ToT) reasoning** for chart selection and features **self-correcting agents** that can fix their own errors.

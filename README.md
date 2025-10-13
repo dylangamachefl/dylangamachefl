@@ -22,17 +22,15 @@ This is my most recent and complex project, demonstrating advanced concepts in a
 
 This collection showcases end-to-end solutions to complex business problems, demonstrating skills in data cleaning, exploratory analysis, machine learning, and translating insights into actionable business strategy.
 
+*   **Repo:** [GitHub Repo](https://github.com/dylangamachefl/data-analytics-portfolio)
 *   **Project 1: Customer Analytics & Retention Strategy**
     *   **Description:** Reduced customer churn for a UK e-commerce retailer by segmenting over 540,000 transactions with RFM analysis and K-Means clustering. An XGBoost model was built to predict churn, identifying an immediate revenue risk of £112,000 and projecting a campaign ROI of over 1,100%.
-    *   **Repo:** `[GitHub Repo](#)` *(<-- Add link to project repo here)*
 
 *   **Project 2: Retail Demand Forecasting & Inventory Optimization**
     *   **Description:** Solved a critical supply chain challenge for Walmart by developing a LightGBM model to forecast weekly sales, achieving a highly reliable 8.19% WMAPE. The forecasts were then used to create a data-driven inventory policy to minimize costs while maintaining a 95% service level.
-    *   **Repo:** `[GitHub Repo](#)` *(<-- Add link to project repo here)*
 
 *   **Project 3: Credit Risk & Loan Default Prediction**
     *   **Description:** Built an interpretable machine learning model to minimize financial losses from defaulted loans. The final Random Forest model was optimized for business cost, not just accuracy, and is projected to reduce loan defaults by 80%, delivering an estimated **$2.1M in annual savings**.
-    *   **Repo:** `[GitHub Repo](#)` *(<-- Add link to project repo here)*
 
 ---
 

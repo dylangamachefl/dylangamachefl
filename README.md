@@ -1,7 +1,7 @@
 # Hi there, I'm Dylan 👋
 
 ## About Me
-I'm an AI/ML enthusiast passionate about building intelligent, practical applications. I'm currently working on a portfolio of projects to showcase my skills in both solving core business problems with data and leveraging cutting-edge AI models to build novel applications.
+I'm a data enthusiast passionate about building intelligent, practical applications. I'm currently working on a portfolio of projects to showcase my skills in both solving core business problems with data and leveraging cutting-edge AI models to build novel applications.
 
 This portfolio showcases my ability to build end-to-end solutions, from complex agentic AI systems and high-performance web frontends to deep-dive business analytics that drive strategic decisions.
 

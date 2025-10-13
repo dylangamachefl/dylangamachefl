@@ -76,7 +76,8 @@ This collection showcases my skills in utilizing the Hugging Face ecosystem (Tra
 *   **Programming:** Python, TypeScript, SQL
 *   **Web & Frameworks:** Next.js, React, Streamlit, Tailwind CSS
 *   **Libraries:** Pandas, Plotly, Matplotlib, Seaborn, NumPy, Requests
-*   **Databases:** SQLite
+*   **Databases:** SQLite, SQL Server, Postgresql
+*   **Dashboards:** Tableau, PowerBI
 *   **Tools & Platforms:** Git, GitHub, Streamlit Community Cloud, Hugging Face Spaces, Docker (conceptual), Vercel
 *   **Concepts:** API Integration, Business Impact Analysis, Data-Driven Strategy, Static Site Generation (SSG), Technical Documentation
 

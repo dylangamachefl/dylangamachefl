@@ -50,26 +50,14 @@ A collection of projects dedicated to applying data analysis and advanced AI to 
 
 ---
 
-## 🤖 Hugging Face Projects
+## 🤖 Hugging Face Mini-App Collection
 
-This collection showcases my skills in utilizing the Hugging Face ecosystem (Transformers, Inference API, Spaces) for various NLP and Computer Vision tasks.
+This is a curated collection of smaller applications I built to demonstrate proficiency with the Hugging Face ecosystem (Transformers, Inference API, and Spaces). These foundational projects in NLP and Computer Vision are now grouped into a single repository.
 
-*   **Project 1: Image Captioning Tool**
-    *   **Description:** An interactive web application that generates descriptive captions for uploaded images using the `transformers` library to run a state-of-the-art model locally.
-    *   **Live Demo:** [HF Image Captioning App](https://dylangamachefl-hf-image-captioning.hf.space)
-    *   **Repo:** [GitHub - hf-image-captioning](https://github.com/dylangamachefl/hf-image-captioning)
-*   **Project 2: Zero-Shot Text Classification**
-    *   **Description:** An interactive web app that classifies text into user-defined categories using Hugging Face's zero-shot models via the Inference API.
-    *   **Live Demo:** [HF Zero-Shot Text Classifier](https://dylangamachefl-hf-zero-shot-classifier.hf.space)
-    *   **Repo:** [GitHub - hf-zero-shot-classifier](https://github.com/dylangamachefl/hf-zero-shot-classifier)
-*   **Project 3: Text Translation Tool**
-    *   **Description:** An interactive web app that translates text into various languages using the Hugging Face Inference API and Helsinki-NLP models.
-    *   **Live Demo:** [HF Text Translator App](https://dylangamachefl-hf-text-translator.hf.space)
-    *   **Repo:** [GitHub - hf-text-translator](https://github.com/dylangamachefl/hf-text-translator)
-*   **Project 4: Sentiment Analysis App**
-    *   **Description:** A web application that performs sentiment analysis on user-provided text using the Hugging Face Inference API and a DistilBERT model.
-    *   **Live Demo:** [HF Sentiment Analyzer App](https://dylangamachefl-hf-sentiment-analyzer.hf.space)
-    *   **Repo:** [GitHub - hf-sentiment-analyzer](https://github.com/dylangamachefl/hf-sentiment-analyzer)
+* **Repo:** [GitHub - huggingface-project-suite](https://github.com/dylangamachefl/huggingface-project-suite)
+    * **Description:** A monorepo containing several web apps, including an **Image Captioning Tool**, a **Zero-Shot Classifier**, a **Text Translator**, and a **Sentiment Analyzer**. The README within this repository links to all individual live demos.
+
+---
 
 ## 🛠️ Skills
 *   **AI/ML:** Google Gemini API, LangChain, Agentic AI Systems (ReAct, ToT), Hugging Face, Scikit-learn, XGBoost, LightGBM, SHAP, NLP, Forecasting, Classification, Clustering

@@ -48,8 +48,6 @@ An advanced conversational RAG assistant for chatting with PDF, Word, and text f
 
 **Enterprise-Ready Features:**
 * **`Reliability (Advanced RAG)`:** Built with a **Two-Stage Conversational RAG Architecture** to provide accurate, source-backed answers. Uses **History-Aware Retrieval** to maintain context in multi-turn conversations.
-* **`Evaluation (Quality)`:** Implemented an evaluation pipeline to measure key RAG metrics like **faithfulness** and **context relevance**, ensuring that changes to the retrieval logic lead to measurable improvements.
-* **`Security (Data Filtering)`:** (Applied) *[Or "Applying"]* guardrails to filter PII from documents before processing and to prevent off-topic questions, ensuring data governance.
 
 ### 3. Project: Fantasy Football SQL-Agent Chatbot
 A specialized agent that translates natural language questions ("Who had the most points last week?") into accurate SQL queries to conversationally explore a sports database.

@@ -1,79 +1,83 @@
 # Hi there, I'm Dylan 👋
 
-## About Me
-I'm a data enthusiast passionate about building intelligent, practical applications. I'm currently working on a portfolio of projects to showcase my skills in both solving core business problems with data and leveraging cutting-edge AI models to build novel applications.
+## 🎯 About Me
+I am an AI developer passionate about building next-generation autonomous agents. My focus is on mastering the foundations of **enterprise-grade AI**—moving beyond simple prototypes to apply and learn the principles of **Reliability**, **Security**, **Auditability**, and **Evaluation**.
 
-This portfolio showcases my ability to build end-to-end solutions, from complex agentic AI systems and high-performance web frontends to deep-dive business analytics that drive strategic decisions.
+My portfolio is built to demonstrate these skills through end-to-end applications that solve real-world problems. I am actively seeking a junior AI Engineer or AI Agent Developer role where I can contribute my project-based skills and grow within a team that is solving complex challenges.
 
----
-
-## 🚀 Featured Projects
-
-A showcase of my most recent and complex projects, demonstrating advanced concepts in agentic AI, RAG pipelines, and end-to-end application development.
-
-* **Project: Data-to-Analysis: A Multi-Agent AI Analyst**
-    * **Description:** An interactive web application that leverages a sophisticated multi-agent system, powered by the **Google Gemini API**, to automatically analyze a CSV dataset, derive strategic business insights, and generate a final, insightful data visualization. The system uses **Tree-of-Thought (ToT) reasoning** for chart selection and features **self-correcting agents** that can fix their own errors.
-    * **Live Demo:** [Live Demo](https://data-to-analysis-app.streamlit.app/)
-    * **Repo:** [GitHub](https://github.com/dylangamachefl/data-to-analysis)
-
-* **Project: DocuQuery: Your Conversational Document Assistant**
-    * **Description:** An advanced, conversational AI assistant designed to let you chat with your documents. `DocuQuery` leverages a sophisticated **Two-Stage Conversational RAG Architecture** with **History-Aware Retrieval** to enable natural, multi-turn conversations about PDF, Word, and text files. Key features include source-backed answers, conversational memory, and multi-format support.
-    * **Live Demo:** [Live Demo](https://docu-query-001.streamlit.app/)
-    * **Repo:** [GitHub](https://github.com/dylangamachefl/docu-query)
+* **LinkedIn:** [https://www.linkedin.com/in/datadrivendylan/](https://www.linkedin.com/in/datadrivendylan/)
+* **Email:** dylangamachefl@gmail.com
 
 ---
 
-## 📊 Data Science & Analytics for Business Impact
+## 🛠️ Core Competencies & Skills
 
-This collection showcases end-to-end solutions to complex business problems, demonstrating skills in data cleaning, exploratory analysis, machine learning, and translating insights into actionable business strategy.
+My skills are organized by the core domains required for building production-ready AI systems.
 
-* **Repo:** [GitHub Repo](https://github.com/dylangamachefl/data-analytics-portfolio)
-* **Project 1: Customer Analytics & Retention Strategy**
-    * **Description:** Reduced customer churn for a UK e-commerce retailer by segmenting over 540,000 transactions with RFM analysis and K-Means clustering. An XGBoost model was built to predict churn, identifying an immediate revenue risk of £112,000 and projecting a campaign ROI of over 1,100%.
-
-* **Project 2: Retail Demand Forecasting & Inventory Optimization**
-    * **Description:** Solved a critical supply chain challenge for Walmart by developing a LightGBM model to forecast weekly sales, achieving a highly reliable 8.19% WMAPE. The forecasts were then used to create a data-driven inventory policy to minimize costs while maintaining a 95% service level.
-
-* **Project 3: Credit Risk & Loan Default Prediction**
-    * **Description:** Built an interpretable machine learning model to minimize financial losses from defaulted loans. The final Random Forest model was optimized for business cost, not just accuracy, and is projected to reduce loan defaults by 80%, delivering an estimated **$2.1M in annual savings**.
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **🤖 Agentic AI & LLMOps** | LangChain, Agentic Logic (ReAct, ToT), Multi-Agent Systems, Google Gemini API, RAG, Vector Databases, Structured Output (Pydantic), LLM Tracing (LangSmith), LLM Evaluation (RAGAs, DeepEval) |
+| **🛡️ Security & Governance** | Agent Guardrails, Policy Enforcement, Prompt Injection (Red Teaming), PII Filtering |
+| **📊 AI & Machine Learning** | Hugging Face, Scikit-learn, XGBoost, LightGBM, SHAP, NLP, Forecasting, Classification |
+| **⚙️ Programming & Backend** | Python, TypeScript, SQL, API Integration, SQLite, Postgresql, Docker (conceptual) |
+| **🖥️ Web & Application** | Streamlit, Next.js, React, Tailwind CSS, Vercel, Static Site Generation (SSG) |
+| **📈 Data & Analytics** | Pandas, NumPy, Plotly, Matplotlib, Seaborn, Tableau, PowerBI |
 
 ---
 
-## 🏆 Fantasy Football Suite
+## 🚀 Enterprise-Focused AI Agent Projects
 
-A collection of projects dedicated to applying data analysis and advanced AI to the world of fantasy football.
+This is a showcase of my primary projects, each built to demonstrate the core principles of reliable, auditable, and production-ready agentic AI.
 
-* **Project 1: Fantasy Football Chatbot**
-    * **Description:** A conversational AI chatbot, powered by **LangChain and Google Gemini**, that uses a sophisticated **two-stage agentic architecture** to translate natural language questions into accurate SQL queries. This allows users to conversationally explore a league's historical database. Features include conversational memory and **self-correcting SQL generation**.
-    * **Live Demo:** [Live Demo](https://fantasy-football-chatbot.streamlit.app/)
-    * **Repo:** [GitHub - fantasy-football-chatbot](https://github.com/dylangamachefl/fantasy-football-chatbot)
+### 1. Project: Data-to-Analysis: A Multi-Agent AI Analyst
+A multi-agent system, powered by the **Google Gemini API**, that automatically analyzes a CSV dataset, derives strategic business insights, and generates a final data visualization.
 
-* **Project 2: WTStats - Fantasy League Hub**
-    * **Description:** A comprehensive, statically-generated web application built with **Next.js, React, TypeScript, and Tailwind CSS** to serve as a historical archive for a fantasy football league. It features detailed dashboards, GM profiles, H2H stats, and deep-dive articles written in MDX. The entire site is pre-rendered using **Static Site Generation (SSG)** for maximum performance and reliability.
-    * **Live Demo:** [View Live Site](https://dylangamachefl.github.io/WTStats/)
+* **Live Demo:** [Live Demo](https://data-to-analysis-app.streamlit.app/)
+* **Repo:** [GitHub](https://github.com/dylangamachefl/data-to-analysis)
+
+**Enterprise-Ready Features:**
+* **`Reliability (Agentic Logic)`:** Uses **Tree-of-Thought (ToT) reasoning** for robust chart selection and features a **self-correcting agent** that can fix its own errors, ensuring a predictable and resilient logic flow.
+* **`Reliability (Multi-Agent)`:** Designed as a collaborative "team" of agents (Data-Reader, Analyst, Chart-Generator) to break down a complex problem into modular, manageable, and more reliable components.
+* **`Auditability (Tracing)`:** The entire agentic process is traced, allowing for debugging of the multi-agent 'chain of thought' and analysis of token usage and intermediate steps.
+
+### 2. Project: DocuQuery: Conversational Document Assistant
+An advanced conversational RAG assistant for chatting with PDF, Word, and text files, built with a focus on accuracy and conversational context.
+
+* **Live Demo:** [Live Demo](https://docu-query-001.streamlit.app/)
+* **Repo:** [GitHub](https://github.com/dylangamachefl/docu-query)
+
+**Enterprise-Ready Features:**
+* **`Reliability (Advanced RAG)`:** Built with a **Two-Stage Conversational RAG Architecture** to provide accurate, source-backed answers. Uses **History-Aware Retrieval** to maintain context in multi-turn conversations.
+* **`Evaluation (Quality)`:** Implemented an evaluation pipeline to measure key RAG metrics like **faithfulness** and **context relevance**, ensuring that changes to the retrieval logic lead to measurable improvements.
+* **`Security (Data Filtering)`:** (Applied) *[Or "Applying"]* guardrails to filter PII from documents before processing and to prevent off-topic questions, ensuring data governance.
+
+### 3. Project: Fantasy Football SQL-Agent Chatbot
+A specialized agent that translates natural language questions ("Who had the most points last week?") into accurate SQL queries to conversationally explore a sports database.
+
+* **Live Demo:** [Live Demo](https://fantasy-football-chatbot.streamlit.app/)
+* **Repo:** [GitHub](https://github.com/dylangamachefl/fantasy-football-chatbot)
+
+**Enterprise-Ready Features:**
+* **`Reliability (Structured Output)`:** Leverages a **two-stage agentic architecture** with **self-correcting SQL generation** to ensure queries are syntactically correct and robust against user error.
+* **`Security (Red Teaming)`:** Proactively 'red-teamed' the agent to test for and patch vulnerabilities, such as prompt injection attacks attempting to run malicious SQL (e.g., `DROP TABLE`).
+* **`Auditability (Tracing)`:** All natural language inputs, agent 'thoughts,' and final generated SQL queries are traced for debugging, performance monitoring, and root cause analysis.
+
+---
+
+## 📊 Foundational Projects & Business Acumen
+
+A collection of projects that demonstrate my foundational ML skills, full-stack capabilities, and ability to connect technical solutions to business impact.
+
+* **Project: End-to-End Data Science for Business Impact**
+    * **Description:** A portfolio of three end-to-end data science projects demonstrating strong business acumen. These projects (Customer Churn, Demand Forecasting, and Credit Risk) show my ability to connect complex ML models (XGBoost, LightGBM) to direct financial outcomes (e.g., +1,100% ROI, $2.1M in projected savings).
+    * **Repo:** [GitHub Repo](https://github.com/dylangamachefl/data-analytics-portfolio)
+
+* **Project: WTStats - Full-Stack Application**
+    * **Description:** A comprehensive, high-performance web application built with **Next.js, React, TypeScript, and Tailwind CSS**. Demonstrates skills in full-stack development and **Static Site Generation (SSG)** for a reliable, production-ready user experience.
     * **Repo:** [GitHub - wtstats-nextjs](https://github.com/dylangamachefl/WTStats)
 
----
-
-## 🤖 Hugging Face Mini-App Collection
-
-This is a curated collection of smaller applications I built to demonstrate proficiency with the Hugging Face ecosystem (Transformers, Inference API, and Spaces). These foundational projects in NLP and Computer Vision are now grouped into a single repository.
-
-* **Repo:** [GitHub - huggingface-project-suite](https://github.com/dylangamachefl/huggingface-project-suite)
-    * **Description:** A monorepo containing several web apps, including an **Image Captioning Tool**, a **Zero-Shot Classifier**, a **Text Translator**, and a **Sentiment Analyzer**. The README within this repository links to all individual live demos.
+* **Project: Hugging Face Mini-App Collection**
+    * **Description:** A monorepo of smaller web apps built to demonstrate proficiency with the Hugging Face ecosystem (Transformers, Inference API, and Spaces), covering foundational NLP and Computer Vision tasks.
+    * **Repo:** [GitHub - huggingface-project-suite](https://github.com/dylangamachefl/huggingface-project-suite)
 
 ---
-
-## 🛠️ Skills
-* **AI/ML:** Google Gemini API, LangChain, Agentic AI Systems (ReAct, ToT), Hugging Face, Scikit-learn, XGBoost, LightGBM, SHAP, NLP, Forecasting, Classification, Clustering
-* **Programming:** Python, TypeScript, SQL
-* **Web & Frameworks:** Next.js, React, Streamlit, Tailwind CSS
-* **Libraries:** Pandas, Plotly, Matplotlib, Seaborn, NumPy, Requests
-* **Databases:** SQLite, SQL Server, Postgresql
-* **Dashboards:** Tableau, PowerBI
-* **Tools & Platforms:** Git, GitHub, Streamlit Community Cloud, Hugging Face Spaces, Docker (conceptual), Vercel
-* **Concepts:** API Integration, Business Impact Analysis, Data-Driven Strategy, Static Site Generation (SSG), Technical Documentation
-
-## 📫 How to reach me:
-* LinkedIn: [https://www.linkedin.com/in/datadrivendylan/](https://www.linkedin.com/in/datadrivendylan/)
-* Email: dylangamachefl@gmail.com

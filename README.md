@@ -14,12 +14,12 @@ A showcase of my most recent and complex projects, demonstrating advanced concep
 * **Project: Data-to-Analysis: A Multi-Agent AI Analyst**
     * **Description:** An interactive web application that leverages a sophisticated multi-agent system, powered by the **Google Gemini API**, to automatically analyze a CSV dataset, derive strategic business insights, and generate a final, insightful data visualization. The system uses **Tree-of-Thought (ToT) reasoning** for chart selection and features **self-correcting agents** that can fix their own errors.
     * **Live Demo:** [Live Demo](https://data-to-analysis-app.streamlit.app/)
-    * **Repo:** [GitHub - data-to-analysis-agent](https://github.com/dylangamachefl/data-to-analysis)
+    * **Repo:** [GitHub](https://github.com/dylangamachefl/data-to-analysis)
 
 * **Project: DocuQuery: Your Conversational Document Assistant**
     * **Description:** An advanced, conversational AI assistant designed to let you chat with your documents. `DocuQuery` leverages a sophisticated **Two-Stage Conversational RAG Architecture** with **History-Aware Retrieval** to enable natural, multi-turn conversations about PDF, Word, and text files. Key features include source-backed answers, conversational memory, and multi-format support.
     * **Live Demo:** [Live Demo](https://docu-query-001.streamlit.app/)
-    * **Repo:** [GitHub - Add Repo Link Here]
+    * **Repo:** [GitHub](https://github.com/dylangamachefl/docu-query)
 
 ---
 

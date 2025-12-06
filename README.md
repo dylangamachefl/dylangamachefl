@@ -19,7 +19,7 @@ My skills are organized by the core domains required for building production-rea
 | **🤖 Agentic AI & LLMOps** | LangChain, Agentic Logic (ReAct, ToT), Multi-Agent Systems, Google Gemini API, RAG, Vector Databases, Structured Output (Pydantic), LLM Tracing (LangSmith), LLM Evaluation (RAGAs, DeepEval) |
 | **🛡️ Security & Governance** | Agent Guardrails, Policy Enforcement, Prompt Injection (Red Teaming), PII Filtering |
 | **📊 AI & Machine Learning** | Hugging Face, Scikit-learn, XGBoost, LightGBM, SHAP, NLP, Forecasting, Classification |
-| **⚙️ Programming & Backend** | Python, TypeScript, SQL, API Integration, SQLite, Postgresql, Docker (conceptual) |
+| **⚙️ Programming & Backend** | Python, TypeScript, SQL, API Integration, SQLite, Postgresql, Docker |
 | **🖥️ Web & Application** | Streamlit, Next.js, React, Tailwind CSS, Vercel, Static Site Generation (SSG) |
 | **📈 Data & Analytics** | Pandas, NumPy, Plotly, Matplotlib, Seaborn, Tableau, PowerBI |
 

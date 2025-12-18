@@ -3,7 +3,7 @@
 ## 🎯 About Me
 I am an AI developer passionate about building next-generation autonomous agents. My focus is on mastering the foundations of **enterprise-grade AI**—moving beyond simple prototypes to apply and learn the principles of **Reliability**, **Security**, **Auditability**, and **Evaluation**.
 
-My portfolio is built to demonstrate these skills through end-to-end applications that solve real-world problems. I am actively seeking a junior AI Engineer or AI Agent Developer role where I can contribute my project-based skills and grow within a team that is solving complex challenges.
+My portfolio is built to demonstrate these skills through end-to-end applications that solve real-world problems.
 
 * **LinkedIn:** [https://www.linkedin.com/in/datadrivendylan/](https://www.linkedin.com/in/datadrivendylan/)
 * **Email:** dylangamachefl@gmail.com

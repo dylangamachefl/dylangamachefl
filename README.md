@@ -52,7 +52,6 @@ An advanced conversational RAG assistant for chatting with PDF, Word, and text f
 ### 3. Project: Fantasy Football SQL-Agent Chatbot
 A specialized agent that translates natural language questions ("Who had the most points last week?") into accurate SQL queries to conversationally explore a sports database.
 
-* **Live Demo:** [Live Demo](https://fantasy-football-chatbot.streamlit.app/)
 * **Repo:** [GitHub](https://github.com/dylangamachefl/fantasy-football-chatbot)
 
 **Enterprise-Ready Features:**

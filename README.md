@@ -23,51 +23,51 @@ My skills are organized by the core domains required for building robust AI syst
 | **📈 Data & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SQL, Plotly |
 
 ---
+## 🚀 Advanced AI Projects
 
-## 🚀 AI Projects
+### 🎙️ 1. PodScribe: Distributed Transcription & RAG
+> **Stack:** Redis Streams • Docker • FastAPI • WhisperX • Qdrant • Ollama
 
-This is a showcase of my hobby projects, each built to explore specific engineering challenges like distributed processing, client-side inference, and computer vision.
+A production-grade monorepo for automated podcast processing. It coordinates multiple AI services (transcription, summarization, chat) using an event-driven architecture.
 
-### 1. Project: PodScribe - Distributed Transcription & RAG
-A production-grade monorepo for automated podcast processing, summarization, and chat. It coordinates multiple AI services using an event-driven architecture.
+* **Distributed Systems:** Decouples services using **Redis Streams** to ensure reliable message processing, replayability, and independent scaling.
+* **Hardware Optimization:** Implements a custom **Distributed GPU Lock** with an "Immediate Release" strategy to efficiently share CUDA resources between WhisperX and Ollama.
+* **Hybrid Search:** Combines BM25 keyword search with Qdrant vector similarity using **Reciprocal Rank Fusion (RRF)** for superior retrieval accuracy.
 
-* **Repo:** [GitHub](https://github.com/dylangamachefl/pod-scribe)
+[🔗 **View Repository**](https://github.com/dylangamachefl/pod-scribe)
 
-**Key Features:**
-* **`Distributed Systems`:** Uses **Redis Streams** to decouple the transcription worker, summarization service, and RAG engine, ensuring reliable message processing and scalability.
-* **`Hardware Optimization`:** Implements a custom **Distributed GPU Lock** with an "Immediate Release" strategy to efficiently share CUDA resources between WhisperX (transcription) and Ollama (inference).
-* **`Hybrid Search`:** Combines keyword search (BM25) with vector similarity (Qdrant) using **Reciprocal Rank Fusion (RRF)** for high-accuracy retrieval.
+### 🏈 2. Fantasy Football Chatbot V2: Edge AI & WASM
+> **Stack:** WebLLM • WebAssembly (WASM) • React 19 • DSPy • SQLite
 
-### 2. Project: Fantasy Football Chatbot V2 (Edge AI)
-A sophisticated, **100% client-side** conversational agent. Unlike traditional chatbots, this runs the LLM entirely in the user's browser for zero-latency, private analysis.
+A sophisticated **100% client-side** conversational agent. Unlike traditional chatbots, this runs the LLM entirely in the user's browser for zero-latency, private analysis.
 
-* **Repo:** [GitHub](https://github.com/dylangamachefl/fantasy-football-chatbot-v2)
+* **Browser-Based Inference:** Utilizes **WebLLM** and **WASM** to run multi-billion parameter models (Qwen) directly on the client, removing the need for a backend API.
+* **Teacher-Student Loop:** Implements a "flywheel" where a larger local model (Ollama) acts as a "Teacher" to generate synthetic data and optimize prompts for the smaller browser-based "Student" model.
+* **Dynamic Context:** Uses smart semantic routing to prune complex SQL schemas, fitting them into the limited context window of browser-based models.
 
-**Key Features:**
-* **`Browser-Based Inference`:** Utilizes **WebLLM** and **WASM** to run multi-billion parameter models (Qwen) directly on the client, removing the need for a backend API.
-* **`Teacher-Student Loop`:** Implements a "flywheel" where a larger local model (Ollama) acts as a "Teacher" to generate synthetic data and optimize prompts for the smaller browser-based "Student" model.
-* **`Dynamic Context`:** Uses smart semantic routing to prune complex SQL schemas, fitting them into the limited context window of browser-based models.
+[🔗 **View Repository**](https://github.com/dylangamachefl/fantasy-football-chatbot-v2)
 
-### 3. Project: Grocery Deal Finder (Multi-Agent Vision)
+### 🛒 3. Grocery Deal Finder: Multi-Agent Vision Pipeline
+> **Stack:** Google Gemma 3 • Transformers.js • Map-Reduce • Web Workers
+
 An intelligent system that uses computer vision and a map-reduce pipeline to extract and match deals from weekly grocery ads against a user's shopping list.
 
-* **Repo:** [GitHub](https://github.com/dylangamachefl/grocery-deal-finder)
+* **Multi-Agent Orchestration:** A 4-agent pipeline (Vision Extractor, Librarian, Interpreter, Matcher) powered by **Google Gemma 3** to handle distinct stages of data processing.
+* **Map-Reduce:** Implements parallel processing to handle large inventories, splitting items into shards for concurrent analysis by the "Inventory Librarian" agent.
+* **Client-Side Vectors:** Runs **Transformers.js** in a Web Worker to classify thousands of products using vector embeddings locally, keeping the UI responsive.
 
-**Key Features:**
-* **`Multi-Agent Orchestration`:** A 4-agent pipeline (Vision Extractor, Librarian, Interpreter, Matcher) powered by **Google Gemma 3** to handle distinct stages of data processing.
-* **`Map-Reduce`:** Implements parallel processing to handle large inventories, splitting items into shards for concurrent analysis by the "Inventory Librarian" agent.
-* **`Client-Side Vectors`:** Runs **Transformers.js** in a Web Worker to classify thousands of products using vector embeddings locally, keeping the UI responsive.
+[🔗 **View Repository**](https://github.com/dylangamachefl/grocery-deal-finder)
 
-### 4. Project: DocuQuery - Local-First Privacy RAG
-A professional-grade RAG assistant designed for 100% data privacy. All parsing, embedding, and inference happen locally on the user's hardware to prevent data leakage.
+### 📄 4. DocuQuery: Local-First Privacy RAG
+> **Stack:** Ollama • LangChain • Microsoft Presidio • FAISS • RAGAs
 
-* **Repo:** [GitHub](https://github.com/dylangamachefl/docuquery)
+A professional-grade RAG assistant designed for **100% data privacy**. All parsing, embedding, and inference happen locally on the user's hardware to prevent data leakage.
 
-**Key Features:**
-* **`Privacy-First Architecture`:** Ensures 100% local processing by orchestrating **Ollama** and **FAISS** (in-memory vector store) via Docker, keeping data off external clouds.
-* **`Security Guardrails`:** Integrates **Microsoft Presidio** to automatically detect and redact PII (Names, Emails, SSNs) from user inputs before they reach the LLM.
-* **`Evaluation Pipeline`:** Includes a dedicated container running **RAGas** to quantitatively measure retrieval "Faithfulness" and "Context Precision".
+* **Privacy-First Architecture:** Orchestrates **Ollama** and **FAISS** (in-memory vector store) via Docker to keep all data off external clouds.
+* **Security Guardrails:** Integrates **Microsoft Presidio** to automatically detect and redact PII (Names, Emails, SSNs) from user inputs before they reach the LLM.
+* **Evaluation Pipeline:** Includes a dedicated container running **RAGas** to quantitatively measure retrieval "Faithfulness" and "Context Precision".
 
+[🔗 **View Repository**](https://github.com/dylangamachefl/docuquery)
 ---
 
 ## 📊 Foundational Projects & Business Acumen

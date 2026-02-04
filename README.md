@@ -23,7 +23,7 @@ My skills are organized by the core domains required for building robust AI syst
 | **📈 Data & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SQL, Plotly |
 
 ---
-## 🚀 Advanced AI Projects
+## 🚀 AI Projects
 
 ### 🎙️ 1. PodScribe: Distributed Transcription & RAG
 > **Stack:** Redis Streams • Docker • FastAPI • WhisperX • Qdrant • Ollama

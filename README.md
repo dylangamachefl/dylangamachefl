@@ -68,6 +68,7 @@ A professional-grade RAG assistant designed for **100% data privacy**. All parsi
 * **Evaluation Pipeline:** Includes a dedicated container running **RAGas** to quantitatively measure retrieval "Faithfulness" and "Context Precision".
 
 [🔗 **View Repository**](https://github.com/dylangamachefl/docuquery)
+
 ---
 
 ## 📊 Foundational Projects & Business Acumen

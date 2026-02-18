@@ -5,6 +5,7 @@ I am an AI developer passionate about building reliable autonomous agents and lo
 
 My portfolio is designed to demonstrate these skills through end-to-end applications that solve real-world problems using modern, privacy-focused stacks.
 
+* **Website:** [https://dylangamache.com/](https://dylangamache.com/)
 * **LinkedIn:** [https://www.linkedin.com/in/datadrivendylan/](https://www.linkedin.com/in/datadrivendylan/)
 * **Email:** dylangamachefl@gmail.com
 
